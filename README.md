@@ -17,7 +17,7 @@
  
  An important note is that averages are very important in analyzing baseball statistics. Not just one player or one team's average, but we want to be using other players and other team's averages to predict specific players and specific teams. This might sound counterintuitive but everything REGRESSES TOWARDS THE MEAN. One of the many important theorem's in statistics is Stein's Theorem is based on this idea. In a nutshell it basically says that no matter what everything will regress towards the mean because everything is based on partly SKILL and partly LUCK. A player who is having an amazing batting season is probably a really good batter, but they're also probably lucky and they're more than likely not going to stay at that level forever and regress towards the means. Vice versa can be said with a player having a horrible season as well! 
  
- So we paid a lot of attention to the averages. And we had to make sure if distributions could at least be explained if they were off or if we had to drop some columns or impute some rows.
+ So we paid a lot of attention to the averages. If a team was performing better than the average then that was a good sign but it could also mean that they most likely would return back to the general average of other teams. And we had to make sure if distributions could at least be explained if they were off or if we had to drop some columns or impute some rows.
  
 #### Before: 
  
